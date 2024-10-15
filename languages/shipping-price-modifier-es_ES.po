@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DynoWP Shipping Price Modifier\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-02 13:00+0000\n"
+"PO-Revision-Date: 2024-03-02 13:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: shipping-price-modifier"
+
+#: shipping-price-modifier.php:43
+msgid "Configurações"
+msgstr "Configuraciones"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:26
+msgid "Configuração do Modificador de Frete"
+msgstr ""
+"Configuración del Modificador de Envío\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:27
+msgid "Modificador de Frete"
+msgstr ""
+"Modificador de Flete\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:38
+msgid "Ajuste o valor do frete da maneira que preferir"
+msgstr ""
+"Ajuste el valor del flete según su preferencia\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:43
+msgid "Aplicar a alteração no valor do frete"
+msgstr ""
+"Aplicar la alteración en el valor del flete\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:55
+msgid "Configurações do Frete"
+msgstr ""
+"Configuraciones de Envío\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:62
+msgid "Deseja ativar a modificação do frete?"
+msgstr ""
+"¿Desea activar la modificación del flete?\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:68
+msgid "Tipo de desconto"
+msgstr ""
+"Tipo de descuento\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:73
+msgid "Valor fixo"
+msgstr ""
+"Valor fijo\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:74
+msgid "Porcentagem"
+msgstr "Porcentaje"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:80
+msgid "O que deseja fazer"
+msgstr ""
+"¿Qué desea hacer?\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:85
+msgid "Aumentar o preço do frete"
+msgstr ""
+"Aumentar el precio del flete\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:86
+msgid "Aplicar desconto"
+msgstr ""
+"Aplicar descuento\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:92
+msgid "Informe o valor"
+msgstr ""
+"Ingrese el valor\n"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:98
+msgid "Log"
+msgstr "Registro (Log)"
+
+#: admin/dynowp-shipping-price-modifier-settings.php:144
+msgid "Veja a log em WooCommerce > Status > Log"
+msgstr ""
+"Vea el registro en WooCommerce > Estado > Registro\n"
+
+#: includes/class-dynowp-shipping-price-modifier.php:27
+#, php-format
+msgid "Custo original do frete: %s"
+msgstr ""
+"Costo original del flete: %s\n"
+
+#: includes/class-dynowp-shipping-price-modifier.php:38
+#, php-format
+msgid "Aplicado: %s = %s"
+msgstr ""
+"Aplicado: %s = %s\n"
+
+#: includes/class-dynowp-shipping-price-modifier.php:39
+#, php-format
+msgid "Novo custo do frete: %s"
+msgstr ""
+"Nuevo costo del flete: %s\n"
+
+#. Name of the plugin
+msgid "DynoWP Shipping Price Modifier"
+msgstr ""
+"DynoWP Modificador de Precio de Envío\n"
+
+#. Description of the plugin
+msgid "Um plugin para modificar o valor do frete no WooCommerce."
+msgstr ""
+"Un complemento para modificar el valor del flete en WooCommerce.\n"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://dyogomacedo.com.br"
+msgstr "https://dyogomacedo.com.br"
+
+#. Author of the plugin
+msgid "Dyogo Macedo"
+msgstr ""
+"Dyogo Macedo\n"
