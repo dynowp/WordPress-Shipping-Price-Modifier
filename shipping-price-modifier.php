@@ -8,6 +8,7 @@ Author: Dyogo Macedo
 Author URI: https://dyogomacedo.com.br
 License: GPL2
 Text Domain: shipping-price-modifier
+Requires Plugins: woocommerce
 Domain Path: /languages
 */
 
