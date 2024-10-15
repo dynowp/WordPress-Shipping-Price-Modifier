@@ -21,7 +21,7 @@ Add a configuration panel image here.
 ### Requirements
 
 - WordPress 6.6 or higher
-- WooCommerce 4.0 or higher
+- WooCommerce 9.3 or higher
 
 ---
 
@@ -48,4 +48,4 @@ Adicione aqui uma imagem do painel de configurações.
 ### Requisitos
 
 - WordPress 6.6 ou superior
-- WooCommerce 4.0 ou superior
+- WooCommerce 9.3 ou superior
