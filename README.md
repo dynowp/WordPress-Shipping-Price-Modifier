@@ -11,12 +11,12 @@ This plugin allows WooCommerce stores to modify shipping rates. It provides the 
 ### How to Use
 
 1. Install the plugin on WordPress.
-2. Access the settings at **WooCommerce > Settings > Modified Shipping**.
+2. Access the settings at **WooCommerce > Shipping Modifier**.
 3. Set the discount or surcharge values according to your needs.
 
-### Configuration Example
+### Configuration Page
 
-Add a configuration panel image here.
+![Captura de tela 2024-10-15 211051](https://github.com/user-attachments/assets/6efbea95-6f43-48a1-8541-ba6358b44220)
 
 ### Requirements
 
@@ -38,14 +38,16 @@ Este plugin permite que as lojas WooCommerce modifiquem a taxa de frete. Ele ofe
 ### Como usar
 
 1. Instale o plugin no WordPress.
-2. Acesse as configurações em **WooCommerce > Configurações > Frete Modificado**.
+2. Acesse as configurações em **WooCommerce > Modificador de Frete**.
 3. Defina os valores de desconto ou acréscimo conforme a necessidade.
 
-### Exemplo de Configuração
 
-Adicione aqui uma imagem do painel de configurações.
+### Página de Configuração
+
+![Captura de tela 2024-10-15 211644](https://github.com/user-attachments/assets/37dfa69d-dc8b-4220-bef8-60a22d58a5d7)
 
 ### Requisitos
 
 - WordPress 6.6 ou superior
 - WooCommerce 9.3 ou superior
+
