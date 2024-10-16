@@ -1,9 +1,9 @@
 === Freight Modifier ===
-Contributors: dyogomacedo
+Contributors: dynowp
 Tags: freight, woocommerce, shipping
 Requires at least: 5.4
 Tested up to: 6.6.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -39,6 +39,9 @@ Yes, you can configure it to apply a discount on the shipping rate, resulting in
 The plugin has been tested with WooCommerce version 8.4.0. We always recommend using the latest version of WooCommerce to ensure the best compatibility.
 
 == Changelog ==
+
+= 1.0.1 =
+- Added translation for Brazilian Portuguese.
 
 = 1.0.0 =
 - Initial release of the plugin.

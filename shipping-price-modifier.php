@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: DynoWP Shipping Price Modifier
-Plugin URI: https://dyogomacedo.com.br
-Description: Um plugin para modificar o valor do frete no WooCommerce.
-Version: 1.0.0
-Author: Dyogo Macedo
-Author URI: https://dyogomacedo.com.br
+Plugin Name: Shipping Price Modifier by DynoWP
+Plugin URI: https://dynowp.com.br
+Description: A plugin to modify the shipping cost in WooCommerce.
+Version: 1.0.1
+Author: DynoWP
+Author URI: https://dynowp.com.br
 License: GPL2
 Text Domain: shipping-price-modifier
 Requires Plugins: woocommerce
